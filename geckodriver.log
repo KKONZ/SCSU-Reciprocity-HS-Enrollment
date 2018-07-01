@@ -146,3 +146,12 @@ JavaScript warning: https://www.nd.gov/dpi/js/moment.min.js, line 6: unreachable
 1530395073340	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\karlk\AppData\Local\Temp\tmpaddon-96b017
 1530395086728	addons.productaddons	INFO	downloadXHR File download. status=200
 1530395086731	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\karlk\AppData\Local\Temp\tmpaddon-728233
+Unable to read VR Path Registry from C:\Users\karlk\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 10828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 236, Chrome_ChildThread] WARNING: pipe err
